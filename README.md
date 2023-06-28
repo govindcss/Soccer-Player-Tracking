@@ -26,3 +26,4 @@
     ```sh
     $ python SoccerPlayerTracking.py --saved_model "./best.pt" --video_path "./input.mp4"
     ```
+<img width="1537" alt="Screenshot 2023-06-28 at 1 44 05 PM" src="https://github.com/govindcss/Soccer-Player-Tracking/assets/117146516/186a190e-faa5-4f09-99ec-a670e85e386e">
